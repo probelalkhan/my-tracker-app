@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Tracker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_have_an_account_nsign_in_here">Already have an account?\nSign in Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="belal_khan">Belal Khan</string>
+    <string name="placeholder_email">belal@gmail.com</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account_nsign_up_here">Don\'t have an account?\nSign Up Here</string>
+    <string name="email_taken">Email already registered</string>
+    <string name="user_registered">Registration successful you can login now</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="survey_name">Survey Name</string>
+    <string name="ok">OK</string>
+    <string name="survey_name_required">Survey name required</string>
+    <string name="location_permission_required">This app needs location permission to keep tracking your location</string>
+    <string name="yes_grant_permission">Yes, Grant permissions</string>
+    <string name="no_exit_app">No exit app</string>
+    <string name="permission_denied">You have denied location permissions, application cannot work without it</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="tracking_going_on">Tracking going on</string>
+    <string name="notification_text">MyTracker is tracking your location</string>
+    <string name="start_survey">Start Survey</string>
+    <string name="stop_survey">Stop Survey</string>
+    <string name="meter_square">%1$f Meters Square</string>
+    <string name="all_fields_required">All fields required</string>
+</resources>
